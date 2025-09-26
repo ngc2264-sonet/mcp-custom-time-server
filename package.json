@@ -1,0 +1,20 @@
+{
+  "name": "mcp-custom-time-server",
+  "version": "1.0.0",
+  "description": "mcp-custom-time-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngc2264-sonet/mcp-custom-time-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngc2264-sonet/mcp-custom-time-server/issues"
+  },
+  "homepage": "https://github.com/ngc2264-sonet/mcp-custom-time-server#readme"
+}
